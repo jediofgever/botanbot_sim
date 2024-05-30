@@ -115,6 +115,9 @@ install(DIRECTORY include/
   DESTINATION include/
 )
 
+# setup environment variables for gazebo model path
+ament_environment_hooks("${CMAKE_CURRENT_SOURCE_DIR}/hooks/gazebo_model_path.dsv.in")
+
 ################################################################################
 # Macro for ament package
 ################################################################################

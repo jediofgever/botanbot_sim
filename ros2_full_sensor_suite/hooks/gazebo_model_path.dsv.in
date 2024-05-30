@@ -1,0 +1,2 @@
+# setup the environment variable hooks for the gazebo model path
+prepend-non-duplicate;GAZEBO_MODEL_PATH;share/@PROJECT_NAME@/models

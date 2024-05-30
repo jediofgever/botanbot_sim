@@ -1,0 +1,3 @@
+# Setup environment variables for gazebo model path
+prepend-non-duplicate;GAZEBO_MODEL_PATH;share/@PROJECT_NAME@/models
+prepend-non-duplicate;GAZEBO_MODEL_PATH;share/@PROJECT_NAME@/worlds
