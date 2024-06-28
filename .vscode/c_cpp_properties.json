@@ -1,0 +1,46 @@
+{
+  "configurations": [
+    {
+      "name": "Linux",
+      "includePath": [
+        "/usr/include/x86_64-linux-gnu/**",
+        "/usr/include/**",
+        "/usr/local/include/**",
+        "/usr/include/gazebo-11/**",
+        "/usr/include/eigen3/**",
+        "/usr/include/pcl-1.12/**",
+        "/usr/include/boost/**",
+        "/opt/ros/humble/include/**",
+        "/home/s0001863/ros2_ws/src/dependencies/ompl/src/**",
+        "/home/s0001863/ros2_ws/install/ompl/include/ompl-1.5/**",
+        "/home/s0001863/ros2_ws/install/casadi/include/**",
+        "/home/s0001863/ros2_ws/install/ACADO/include/**",
+        "/home/s0001863/ros2_ws/src/vox_nav/vox_nav_control/include/**",
+        "/home/s0001863/ros2_ws/src/vox_nav/vox_nav_map_server/include/**",
+        "/home/s0001863/ros2_ws/src/vox_nav/vox_nav_planning/include/**",
+        "/home/s0001863/ros2_ws/src/vox_nav/vox_nav_navigators/include/**",
+        "/home/s0001863/ros2_ws/src/vox_nav/vox_nav_utilities/include/**",
+        "/home/s0001863/ros2_ws/src/vox_nav/vox_nav_waypoint_nav_clients/include/**",
+        "/home/s0001863/ros2_ws/install/vox_nav_msgs/include/**",
+        "/home/s0001863/ros2_ws/src/Thorvald/thorvald_can_devices/include/**",
+        "/home/s0001863/ros2_ws/src/Thorvald/thorvald_base/common/include/**",
+        "/home/s0001863/ros2_ws/src/Thorvald/thorvald_base/ros/**",
+        "/home/s0001863/ros2_ws/src/Thorvald/thorvald_gazebo_plugins/include/**",
+        "/home/s0001863/ros2_ws/install/thorvald_msgs/include/**",
+        "/home/s0001863/ros2_ws/src/Thorvald/thorvald_utilities/include",
+        "/home/s0001863/ros2_ws/src/Thorvald/thorvald_gazebo_plugins/include",
+        "/home/s0001863/ros2_ws/src/Thorvald/thorvald_teleop/include",
+        "/home/s0001863/ros2_ws/src/clock_publisher/include/**",
+        "/home/s0001863/ros2_ws/src/vox_nav/vox_nav_misc/include/**",
+        "/home/s0001863/ros2_ws/install/fast_gicp/include/**",
+        "/usr/local/cuda-12.4/targets/x86_64-linux/include/**"
+      ],
+      "defines": [],
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "c11",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "clang-x64"
+    }
+  ],
+  "version": 4
+}
